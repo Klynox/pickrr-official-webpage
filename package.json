@@ -1,0 +1,13 @@
+{
+  "name": "pickrr",
+  "version": "1.0.1",
+  "description": "",
+  "scripts": {
+  },
+  "author": "Confidence Yobo",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
